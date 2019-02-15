@@ -1,0 +1,1 @@
+google_appengine/appcfg.py -A housuy0 update app_engine_installer/app_engine_project/app.yaml --noauth_local_webserver

@@ -1,0 +1,1 @@
+google_appengine/appcfg.py -A ulugbekpy update app_engine_installer/app_engine_project/app.yaml --noauth_local_webserver
